@@ -1,0 +1,2 @@
+# Attention-Guided-Quantum-LSTM-with-RDO-for-Aspect-Oriented-Sentiment-Classification
+Attention-guided Quantum LSTM framework optimized using Red Deer Optimization (RDO) for Aspect-Based Sentiment Analysis. The system integrates quantum-inspired embeddings, LSTM networks, attention mechanisms, and RDO-based hyperparameter tuning to improve sentiment classification and extract aspect-level insights from user reviews.
