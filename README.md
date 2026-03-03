@@ -9,7 +9,7 @@ The system processes user reviews through multiple stages including data preproc
 
 ## Objectives
 
-- **Develop an efficient Aspect-Based Sentiment Analysis model
+- Develop an efficient Aspect-Based Sentiment Analysis model
 
 - **Improve feature representation using Quantum-Inspired Embeddings
 
