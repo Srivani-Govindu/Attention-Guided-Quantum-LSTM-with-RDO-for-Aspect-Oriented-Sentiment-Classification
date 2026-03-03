@@ -11,23 +11,23 @@ The system processes user reviews through multiple stages including data preproc
 
 - Develop an efficient Aspect-Based Sentiment Analysis model
 
-- **Improve feature representation using Quantum-Inspired Embeddings
+- Improve feature representation using Quantum-Inspired Embeddings
 
-- **Enhance contextual understanding using LSTM networks
+- Enhance contextual understanding using LSTM networks
 
-- **Focus on important words using an Attention Mechanism
+- Focus on important words using an Attention Mechanism
 
-- **Automatically tune model hyperparameters using Red Deer Optimization (RDO)
+- Automatically tune model hyperparameters using Red Deer Optimization (RDO)
 
-- **Compare performance with traditional machine learning models
+- Compare performance with traditional machine learning models
 
-🧠 Project Pipeline
+## Project Pipeline
 
-Data Collection
+### Data Collection
 
 App review dataset containing text reviews and ratings.
 
-Data Preprocessing
+### Data Preprocessing
 
 Lowercasing text
 
@@ -37,13 +37,13 @@ Stopword removal
 
 Text cleaning
 
-Tokenization & Padding
+### Tokenization & Padding
 
 Convert text into numerical sequences using tokenizer
 
 Pad sequences to fixed length for neural network input
 
-Baseline Models
+### Baseline Models
 
 Naive Bayes
 
@@ -51,19 +51,19 @@ K-Means Clustering
 
 Standard LSTM
 
-Quantum-Inspired Embedding
+### Quantum-Inspired Embedding
 
 Words are encoded using real and imaginary embeddings
 
 Magnitude and phase representations are generated
 
-QLSTM Model
+### QLSTM Model
 
 LSTM processes quantum-inspired embeddings
 
 Captures contextual dependencies in text sequences
 
-Red Deer Optimization (RDO)
+### Red Deer Optimization (RDO)
 
 Optimizes hyperparameters such as:
 
@@ -73,13 +73,13 @@ Dropout rate
 
 Learning rate
 
-Attention Mechanism
+### Attention Mechanism
 
 Assigns weights to important words
 
 Improves model focus on sentiment-bearing tokens
 
-Aspect Extraction
+### Aspect Extraction
 
 Identifies aspects such as:
 
@@ -93,7 +93,7 @@ Service
 
 Performance
 
-Evaluation
+### Evaluation
 
 Accuracy
 
@@ -107,16 +107,24 @@ Confusion Matrix
 
 ROC-AUC
 
-🧪 Models Implemented
+## Models Implemented
 Model	Purpose
+
 Naive Bayes	Classical machine learning baseline
+
 K-Means	Unsupervised clustering baseline
+
 LSTM	Deep learning baseline
+
 Quantum-Inspired LSTM	Improved embedding representation
+
 QLSTM + RDO	Hyperparameter optimized model
+
 Attention-Based QLSTM	Focus on important words
+
 Aspect-Based QLSTM	Final model with aspect-level sentiment analysis
-🛠 Technologies Used
+
+## Technologies Used
 
 Python
 
@@ -134,7 +142,7 @@ Matplotlib
 
 Seaborn
 
-📊 Evaluation Metrics
+## Evaluation Metrics
 
 The models are evaluated using:
 
@@ -152,7 +160,7 @@ ROC Curve
 
 ROC-AUC Score
 
-📈 Key Features
+## Key Features
 
 Quantum-inspired word representation
 
@@ -166,7 +174,7 @@ Comparison with classical ML models
 
 Visual performance analysis
 
-🚀 Applications
+## Applications
 
 Customer feedback analysis
 
@@ -178,7 +186,7 @@ Service quality monitoring
 
 Opinion mining systems
 
-🔮 Future Improvements
+## Future Improvements
 
 Integration with transformer-based models
 
@@ -188,6 +196,3 @@ Multi-aspect sentiment classification
 
 Deployment as a web application or API
 
-📄 License
-
-This project is intended for research and educational purposes.
