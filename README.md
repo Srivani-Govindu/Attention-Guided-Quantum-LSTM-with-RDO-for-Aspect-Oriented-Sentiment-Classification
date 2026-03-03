@@ -1,5 +1,5 @@
 # Attention-Guided Quantum LSTM Optimized with Red Deer Optimization (RDO) for Aspect-Based Sentiment Analysis
-📌 Overview
+## Overview
 
 This project presents a hybrid deep learning framework for Aspect-Based Sentiment Analysis (ABSA) using an Attention-Guided Quantum-Inspired LSTM model optimized with Red Deer Optimization (RDO).
 
@@ -7,7 +7,7 @@ Traditional sentiment analysis methods classify the overall sentiment of a text 
 
 The system processes user reviews through multiple stages including data preprocessing, feature representation, sequence modeling, hyperparameter optimization, and evaluation to produce accurate sentiment predictions and aspect-level insights.
 
-🎯 Objectives
+## Objectives
 
 Develop an efficient Aspect-Based Sentiment Analysis model
 
