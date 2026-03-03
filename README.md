@@ -9,17 +9,17 @@ The system processes user reviews through multiple stages including data preproc
 
 ## Objectives
 
-Develop an efficient Aspect-Based Sentiment Analysis model
+- **Develop an efficient Aspect-Based Sentiment Analysis model
 
-Improve feature representation using Quantum-Inspired Embeddings
+- **Improve feature representation using Quantum-Inspired Embeddings
 
-Enhance contextual understanding using LSTM networks
+- **Enhance contextual understanding using LSTM networks
 
-Focus on important words using an Attention Mechanism
+- **Focus on important words using an Attention Mechanism
 
-Automatically tune model hyperparameters using Red Deer Optimization (RDO)
+- **Automatically tune model hyperparameters using Red Deer Optimization (RDO)
 
-Compare performance with traditional machine learning models
+- **Compare performance with traditional machine learning models
 
 🧠 Project Pipeline
 
